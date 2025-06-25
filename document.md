@@ -27,3 +27,10 @@ This GitHub crash course provided hands-on experience with essential tools for c
 
 
 ### Patricia Wangu
+Participating in the GitHub crash course has provided me with a strong foundation in version control and collaborative development. I have learned how to:
+- Create and manage branches to work on features independently.
+- Stage, commit and push changes to a remote repository using Git.
+- Open and manage pull requests for team-based collaboration.
+- Resolve merge conflicts effectively and understand their underlying causes.
+- Utilize issues and project boards to organize tasks and monitor progress.
+- Apply best practices when writing clear and descriptive commit messages.
